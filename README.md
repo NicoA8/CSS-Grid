@@ -1,2 +1,1 @@
-# CSS-Grid
-Created with CodeSandbox
+CSS Grid
